@@ -1,6 +1,6 @@
 # FindGeneInDNA
 This piece of code is useful for genome scientist to get the all the valid genes in a given DNA strand.
-# Introductio about Genome
+# Introduction about Genome
 ------------------------------------------------------------------------
 ### Genemic String:- The genome of an organism stores all the genetic information necessary to build and maintain that organism. 
 - This genetic information is stored as a long list or sting over the four letter alphabet A, T, C, and G
